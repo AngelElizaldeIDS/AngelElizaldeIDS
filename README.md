@@ -21,4 +21,7 @@ Soy Angel Uriel Elizalde Lopez, estudiante de Ingeniería en Desarrollo de Softw
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelElizaldeIDS&layout=compact&theme=dark)
+![AngelElizaldeIDS's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelElizaldeIDS&show_icons=true&theme=dark)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AngelElizaldeIDS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
