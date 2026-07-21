@@ -1,27 +1,178 @@
-# <img src="https://media.giphy.com/media/2JbBhsjO727NqtONkv/giphy.gif" width="100"/> Bienvenid@ Al GitHub De Angel Elizalde (Anzalket)
+<div align="center">
 
-![Banner De Angel Elizalde](BANNER.png)
+# 👋 Hola, soy Angel Uriel Elizalde López
 
-### Redes Sociales
+### 💻 Backend Developer en Formación
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AngelElizaldeIDS)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngelElizaldeIDS)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/angel.elizalde.7564/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anzalket/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
+**C# • ASP.NET Core • SQL Server • Docker • JavaScript**
 
+<img src="https://media.giphy.com/media/2JbBhsjO727NqtONkv/giphy.gif" width="90"/>
 
-👋 Hola a todos!
-Soy Angel Uriel Elizalde Lopez, estudiante de Ingeniería en Desarrollo de Software. Actualmente curso el tercer semestre y una de mis mayores pasiones es la programación web. Me encanta explorar nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras. 🚀
+<img src="BANNER.png"/>
 
-### Skills
+<p>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://komarev.com/ghpvc/?username=AngelElizaldeIDS&label=Visitas&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/AngelElizaldeIDS?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/AngelElizaldeIDS?style=for-the-badge"/>
+
 </p>
 
+</div>
 
-![AngelElizaldeIDS's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelElizaldeIDS&show_icons=true&theme=dark)
+---
 
+# 👨‍💻 Sobre mí
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AngelElizaldeIDS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Soy estudiante de **Ingeniería en Desarrollo de Software**, apasionado por el desarrollo **Backend** y por construir aplicaciones que resuelvan problemas reales.
+
+Actualmente desarrollo un **ERP Industrial** para una empresa, donde participo en el análisis, diseño e implementación de módulos para digitalizar procesos que anteriormente se realizaban mediante hojas de Excel.
+
+Mi principal objetivo es convertirme en un **Backend Developer especializado en tecnologías .NET**, desarrollando aplicaciones escalables, seguras y de alto rendimiento.
+
+---
+
+# 🚀 Actualmente
+
+- 🏭 Desarrollando el ERP **PLANETA 2026**
+- 💻 Construyendo APIs REST con ASP.NET Core
+- 🗄 Diseñando bases de datos con SQL Server
+- 🐳 Implementando Docker para despliegues
+- 📚 Aprendiendo Clean Architecture y Entity Framework
+
+---
+
+# 🏭 Proyecto Principal
+
+## PLANETA 2026 ERP
+
+Sistema ERP desarrollado para administrar los procesos internos de una empresa industrial.
+
+### Módulos desarrollados
+
+- Logística
+- Calidad
+- Mantenimiento
+- Administración
+- Usuarios
+- Roles
+- Áreas
+- Inventarios
+- Materia Prima
+- Producto Terminado
+- Salidas y Ajustes
+- Reportes
+- Control de Lotes
+- Control de Pacas
+- Históricos
+
+### Tecnologías
+
+- ASP.NET Core
+- C#
+- SQL Server
+- HTML
+- CSS
+- JavaScript
+- Docker
+- Git
+
+---
+
+# 🛠 Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,docker,vscode,visualstudio,sqlserver"/>
+
+</div>
+
+---
+
+# 📚 Roadmap 2026
+
+- ✅ HTML5
+- ✅ CSS3
+- ✅ JavaScript
+- ✅ Git
+- ✅ GitHub
+- ✅ SQL Server
+- ✅ Docker
+- ✅ C#
+- ✅ ASP.NET Core
+- 🔄 Entity Framework Core
+- 🔄 JWT Authentication
+- 🔄 Clean Architecture
+- ⏳ Azure
+
+---
+
+# ⚡ Habilidades
+
+✔ Desarrollo Backend
+
+✔ APIs REST
+
+✔ SQL Server
+
+✔ Docker
+
+✔ Git
+
+✔ GitHub
+
+✔ Programación Orientada a Objetos
+
+✔ Resolución de Problemas
+
+✔ Trabajo en Equipo
+
+✔ Desarrollo Web
+
+---
+
+# 🌎 Redes Sociales
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/AngelElizaldeIDS">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AngelElizaldeIDS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/angel.elizalde.7564/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/anzalket/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@angeleli09">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 Objetivo Profesional
+
+Mi meta es convertirme en un **Backend Developer especializado en .NET**, participando en proyectos empresariales donde pueda desarrollar APIs, sistemas administrativos y soluciones escalables que optimicen procesos reales.
+
+---
+
+<div align="center">
+
+## 💡 Filosofía
+
+> *"Cada commit representa un paso más hacia convertirme en un mejor desarrollador."*
+
+❤️ Gracias por visitar mi perfil.
+
+</div>
